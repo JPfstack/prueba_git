@@ -1,2 +1,7 @@
  body   {  
         background-color: grey;   }
+
+figure img {
+  width: 500px;
+}
+
